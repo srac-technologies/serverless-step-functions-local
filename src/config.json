@@ -1,0 +1,10 @@
+{
+    "setup": {
+        "download_url": "https://docs.aws.amazon.com/ja_jp/step-functions/latest/dg/samples/StepFunctionsLocal.tar.gz",
+        "install_path": "bin",
+        "jar": "StepFunctionsLocal.jar"
+    },
+    "start": {
+        "port": 3003
+    }
+}
